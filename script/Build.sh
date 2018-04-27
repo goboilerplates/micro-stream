@@ -1,0 +1,1 @@
+go build -o micro-stream.out .
